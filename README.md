@@ -6,9 +6,9 @@ UNDP has partnered with the Government of Telangana to jointly initiate the Next
 
 ## References
 
-- [SOURCEBOOK FOR CLIMATE VULNERABILITY ASSESSMENT, GIZ 2017](https://www.adaptationcommunity.net/download/va/vulnerability-guides-manuals-reports/vuln_source_2017_EN.pdf)
-- [Data-driven decision making for Smart Agriculture](https://csd.columbia.edu/sites/default/files/content/docs/ICT%20India/Papers/ICT_India_Working_Paper_8.pdf)
-- [Towards a more effective Common Agricultural Policy](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research/show-wecr/Towards-a-more-effective-Common-Agricultural-Policy.htm)
+- [The Vulnerability Sourcebook - Concept and guidelines for standardised vulnerability assessments](https://www.adaptationcommunity.net/download/va/vulnerability-guides-manuals-reports/vuln_source_2017_EN.pdf)
+- [Data-driven decision making for Smart Agriculture- ICT India Working Paper](https://csd.columbia.edu/sites/default/files/content/docs/ICT%20India/Papers/ICT_India_Working_Paper_8.pdf)
+- [Towards a more effective Common Agricultural Policy, Waganingen University](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research/show-wecr/Towards-a-more-effective-Common-Agricultural-Policy.htm)
 - [Digital and Data-Driven Agriculture: Harnessing the Power of Data for Smallholders](https://cgspace.cgiar.org/bitstream/handle/10568/92477/GFAR-GODAN-CTA-white-paper-final.pdf)
 - [Policy Innovation for Transforming Africa’s Food System with Digital Technologies](https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/133277/filename/133488.pdf)
 - [Digital agriculture platform blueprint series](https://www.mercycorpsagrifin.org/2021/01/28/introducing-the-digital-agriculture-platform-blueprint-series-with-giz-dalberg/)
